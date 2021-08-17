@@ -1,3 +1,2 @@
 # hello-world
-Intro to Git
-I have a passion for coding and a desire to continuously learn!
+I have a passion for Web Development and a desire to continuously learn!
